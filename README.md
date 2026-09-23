@@ -83,6 +83,8 @@ The dashboard focuses on important sales-performance metrics such as:
 
 ## 🖼️ Dashboard Preview
 
+<img width="668" height="434" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/c6b6a901-abc4-4f95-89d5-85699001ad20" />
+
 ---
 
 ## 💡 Key Insights
